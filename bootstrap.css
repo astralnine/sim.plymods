@@ -1,0 +1,145 @@
+html,body {
+
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+
+}
+
+
+
+
+
+*
+
+
+{font-family: 'Baloo Da 2', cursive;
+ 
+
+
+
+}
+
+.header
+{
+    padding-bottom:-150px;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+p{
+    font-size: x-large;
+   
+}
+
+
+.logo{ 
+    display: block;
+    margin-top:50px;
+    
+    margin-left: auto;
+    margin-right: auto;
+   
+
+}
+    
+
+.hrline{
+    border-color: black;
+    border-style: none;
+    border-top-style: dotted;
+    filter: opacity(20%);
+    border-width: 13px;
+    width: 80px;}
+
+
+    
+
+
+.topline{
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+   
+
+}
+    
+
+    
+
+    .middle-content
+    {width: 50%;
+        margin:100px auto 100px auto;
+        text-align: left;
+        
+       
+
+
+    }
+
+    .girl1
+    {width: 250px; height: 250px;
+    margin-bottom:50px;
+    float: left;
+    margin-right: 50px;
+        
+    
+    }
+
+
+
+
+ .girl2
+ {width: 250px; height: 250px;
+    margin-bottom:50px;
+    float: right;
+        
+
+ }
+
+    
+
+
+    .girl3
+    {width: 250px; height: 250px;
+        margin-bottom:50px;
+        margin-right:50px ;
+        float: left;
+        
+
+    }
+
+
+
+
+    .copyright
+    {
+        background-color: #393e46;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        text-align: center;
+        color: ivory;}
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
